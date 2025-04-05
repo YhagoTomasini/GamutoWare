@@ -1,125 +1,93 @@
-[gd_resource type="SpriteFrames" load_steps=32 format=3 uid="uid://cxywvqakj73ah"]
-
-[ext_resource type="Texture2D" uid="uid://bio7c3ddlbkbp" path="res://microjogos/2024S1/projeto_felipe_onorio/recursos/test_spritesheet/flame_fluffy_2.00010.png" id="1_8phj6"]
+[gd_resource type="SpriteFrames" load_steps=31 format=3 uid="uid://cxywvqakj73ah"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_c5ega"]
-atlas = ExtResource("1_8phj6")
 region = Rect2(0, 0, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_viuxx"]
-atlas = ExtResource("1_8phj6")
 region = Rect2(32, 0, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_alxcs"]
-atlas = ExtResource("1_8phj6")
 region = Rect2(64, 0, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_d3j7w"]
-atlas = ExtResource("1_8phj6")
 region = Rect2(96, 0, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_566uc"]
-atlas = ExtResource("1_8phj6")
 region = Rect2(128, 0, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_h2yds"]
-atlas = ExtResource("1_8phj6")
 region = Rect2(160, 0, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_yx4kb"]
-atlas = ExtResource("1_8phj6")
 region = Rect2(0, 32, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_8h3tl"]
-atlas = ExtResource("1_8phj6")
 region = Rect2(32, 32, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_rjrtc"]
-atlas = ExtResource("1_8phj6")
 region = Rect2(64, 32, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_be5dk"]
-atlas = ExtResource("1_8phj6")
 region = Rect2(96, 32, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_4n58w"]
-atlas = ExtResource("1_8phj6")
 region = Rect2(128, 32, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_dckqy"]
-atlas = ExtResource("1_8phj6")
 region = Rect2(160, 32, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_5tgw3"]
-atlas = ExtResource("1_8phj6")
 region = Rect2(0, 64, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_37n3r"]
-atlas = ExtResource("1_8phj6")
 region = Rect2(32, 64, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_quo42"]
-atlas = ExtResource("1_8phj6")
 region = Rect2(64, 64, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_tu12u"]
-atlas = ExtResource("1_8phj6")
 region = Rect2(96, 64, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_cfdmu"]
-atlas = ExtResource("1_8phj6")
 region = Rect2(128, 64, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_rcee8"]
-atlas = ExtResource("1_8phj6")
 region = Rect2(160, 64, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_aqwpf"]
-atlas = ExtResource("1_8phj6")
 region = Rect2(0, 96, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_g0bxo"]
-atlas = ExtResource("1_8phj6")
 region = Rect2(32, 96, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_ecs3s"]
-atlas = ExtResource("1_8phj6")
 region = Rect2(64, 96, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_yeutg"]
-atlas = ExtResource("1_8phj6")
 region = Rect2(96, 96, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_c06u3"]
-atlas = ExtResource("1_8phj6")
 region = Rect2(128, 96, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_sb04y"]
-atlas = ExtResource("1_8phj6")
 region = Rect2(160, 96, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_xgb36"]
-atlas = ExtResource("1_8phj6")
 region = Rect2(0, 128, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_la5da"]
-atlas = ExtResource("1_8phj6")
 region = Rect2(32, 128, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_8k5ws"]
-atlas = ExtResource("1_8phj6")
 region = Rect2(64, 128, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_baumw"]
-atlas = ExtResource("1_8phj6")
 region = Rect2(96, 128, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_1s1eu"]
-atlas = ExtResource("1_8phj6")
 region = Rect2(128, 128, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_mgrmr"]
-atlas = ExtResource("1_8phj6")
 region = Rect2(160, 128, 32, 32)
 
 [resource]
